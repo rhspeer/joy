@@ -1,16 +1,33 @@
 # Joy
-Wordpress CSS April Fools Day pranks
+Wordpress CSS April Fools Day pranks.
+
+The combination the included function & css allows code savy pranksters to make a site behave oddly for specific logged in users without distrupting the user experience for unauthenticated or untargeted users.
+
+For example lets say we have a friend named Joe that we know would enjoy a little surprise and logs into one of our sites regularily.  We can add Joe's username to the $arrUsersToPrank array and he'll see a site that spins it's logo, changes color, and is slightly askew.  However, nobody else will so we can all pretend like Joe is crazy until someone breaks out laughing.  Everyone has a good giggle, and tells their friends about what a fun place they work at. 
+
+## Pranks Included:
+ 1. All fonts to Comic Sans 
+ 1. Make site black & white
+ 1. Rotate site just a little (weirder than I expected)
+ 1. Spin an element back and forth, like the logo
+ 1. Make hot links hot pink, which makes sense when you think about it
+ 1. Make elements grow bigly
+ 1. Trippy changin colors
+ 1. Hide every other paragraph
+ 1. Blur the Page
+ 
+ These can be mixed and matched for everyone, and different users can be set to see different pranks.
 
 ## IMPORTANT! 
   By using this prank code you are agreeing to the following terms:
-    1. Always punch up, only prank respected collegues and those above you in the org chart, no pranking subordinates.
-    2. Never prank anyone you don't like
-    3. These pranks should not cost anyone money, or damage reputations by exposing the prank to current or potential clients
-    4. If you get pranked, laugh louder than anyone else, or at least get over it quickly ;)
-    5. Pranks are only funny once, multiple pranks becomes harassement and that's not cool
-    6. If someone is a massive jerk about being pranked,
+  1. Always punch up, only prank respected collegues and those above you in the org chart, no pranking subordinates.
+  1. Never prank anyone you don't like
+  1. These pranks should not cost anyone money, or damage reputations by exposing the prank to current or potential clients
+  1. If you get pranked, laugh louder than anyone else, or at least get over it quickly ;)
+  1. Pranks are only funny once, multiple pranks becomes harassement and that's not cool
+  1. If someone is a massive jerk about being pranked,
        send them this complete function so they can see where I called them an dumbass.
-    7. Know the rules, if in doubt ask the most important person in your office if this is ok,
+  1. Know the rules, if in doubt ask the most important person in your office if this is ok,
         and offer to take requests, if the boss thinks it's funny it's all good.
  
    @author rhspeer@gmail.com
