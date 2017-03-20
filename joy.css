@@ -1,0 +1,100 @@
+/*****
+  Spreading joy since April 1, 2017
+*****/
+
+
+/* force all fonts to the one true font that unites all designers */
+html *
+{
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+
+
+/* Make site black & white
+html, body {
+    filter: grayscale(100%);
+}
+*/
+
+/* rotate page 0.5 degrees clockwise
+   WARNING: does not appear to be compatible with the spin animation
+   */
+html, body {
+    transform: rotateZ(0.5deg);
+}
+
+
+/* spin something around
+   Warning: does not appear to be compatible with:
+     1) black & white filter
+     2) Blur the page
+   Also it's a little to obvious
+*/
+
+@keyframes spin {
+    0% {
+        transform: rotateZ(0deg);
+    }
+    100% {
+        transform: rotateZ(360deg);
+    }
+}
+
+/* edit to include what you want to spin or custom logo identifier */
+.logo,
+#logo,
+.logo img,
+#logo-image, #main {
+    animation: spin 10s alternate infinite;
+}
+
+
+/* Hot Links - hot pink that is
+   Not useful if you set the site to black & white
+   */
+a {
+    color: hotpink !important;
+}
+
+/* Make things grow bigly */
+@keyframes grow {
+    to { font-size: 20px; }
+}
+
+/* edit thes identifiers to change what grows */
+h1, h2, p {
+    animation: grow 60s linear forwards;
+}
+
+
+/* trippy colors
+    Pointless to use with black & white
+*/
+html {
+    animation: adjustHue 10s alternate infinite;
+}
+
+@keyframes adjustHue {
+    0% { filter: hue-rotate(0deg); }
+    100% { filter: hue-rotate(360deg); }
+}
+
+
+/*Hide every other paragraph element on a page
+p:nth-child(odd) {
+    display:none !important;
+}
+
+ */
+
+/* Blur the page
+   Warning not compatible with spin
+
+body {
+    -webkit-filter: blur(1px);
+}
+ */
+
+
+
+
