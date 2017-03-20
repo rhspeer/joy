@@ -30,16 +30,16 @@ For example lets say we have a friend named Joe that we know would enjoy a littl
   1. Know the rules, if in doubt ask the most important person in your office if this is ok,
         and offer to take requests, if the boss thinks it's funny it's all good.
  
-   @author rhspeer@gmail.com
-     Please send me your funny stories
+ ## Author 
+ Robert Speer 
+ email: rhspeer@gmail.com
+    Please send me your funny stories
  
-   Credits:
-     Started from snippet found here:
-        https://wordpress.org/support/topic/create-a-css-class-that-is-specific-to-a-user-role/
- 
-     Pranks:
-        http://slides.com/tholman/css-pranks#/
-        http://signaltower.co/april-fools-pranks-for-developers/
+ ## Credits:
+   * Started from snippet found here: https://wordpress.org/support/topic/create-a-css-class-that-is-specific-to-a-user-role/
+   * Pranks:
+     * http://slides.com/tholman/css-pranks#/
+     * http://signaltower.co/april-fools-pranks-for-developers/
         
 ## Installation: 
   1. Copy and paste code in add_to_themes_functions.php into your active wp theme's functions.php.  It would be better to make a child theme, and if you have that inclination feel free.
