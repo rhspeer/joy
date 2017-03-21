@@ -26,7 +26,7 @@ For example lets say we have a friend named Joe that we know would enjoy a littl
   1. If you get pranked, laugh louder than anyone else, or at least get over it quickly ;)
   1. Pranks are only funny once, multiple pranks becomes harassement and that's not cool
   1. If someone is a massive jerk about being pranked,
-       send them this complete function so they can see where I called them an dumbass.
+       send them this complete function so they can see where I called them a over reacting jerk.
   1. Know the rules, if in doubt ask the most important person in your office if this is ok,
         and offer to take requests, if the boss thinks it's funny it's all good.
  
