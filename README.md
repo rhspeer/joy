@@ -1,9 +1,11 @@
 # Joy
 Wordpress CSS April Fools Day pranks.
 
-The combination the included function & css allows code savy pranksters to make a site behave oddly for specific logged in users without distrupting the user experience for unauthenticated or untargeted users.
+This combination of included function & css allows code savy pranksters to make a site behave oddly for specific logged in users without disrupting the user experience for unauthenticated or untargeted users.
 
-For example lets say we have a friend named Joe that we know would enjoy a little surprise and logs into one of our sites regularily.  We can add Joe's username to the $arrUsersToPrank array and he'll see a site that spins it's logo, changes color, and is slightly askew.  However, nobody else will so we can all pretend like Joe is crazy until someone breaks out laughing.  Everyone has a good giggle, and tells their friends about what a fun place they work at. 
+
+
+For example lets say we have a friend named Joe that we know would enjoy a little surprise and logs into one of our sites regularly. We can add Joe's username to the $arrUsersToPrank array and he'll see a site that spins it's logo, changes color, and is slightly askew. However, nobody else will so we can all pretend like Joe is crazy until someone breaks out laughing. Everyone has a good giggle, and tells their friends about what a fun place they work at.
 
 ## Pranks Included:
  1. All fonts to Comic Sans 
